@@ -1,4 +1,4 @@
-var Queuq = function(){
+var Queue = function(){
   var items = []
 
   // 入队
@@ -30,7 +30,7 @@ var Queuq = function(){
 
 // 传花
 let chuanhua = function(names,number){
-  let q = new Queuq()
+  let q = new Queue()
   for(let i = 0;i < names.length;i++){
     q.enqueue(names[i])
   }
