@@ -150,8 +150,8 @@ let HashTable_L = function(){
   //     return undefined
   //   }
   // }
-
-  // this.remove = function(key){
+个
+     // this.remove = function(key){
   //   let position = loseloseHashCode(key)
   //   if(table[position]){
   //     // 删除

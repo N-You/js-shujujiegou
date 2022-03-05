@@ -1,0 +1,7 @@
+{
+  "name": "day7-排序算法",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module"
+}
